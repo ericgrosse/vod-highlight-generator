@@ -1,0 +1,2 @@
+# No Python package dependencies are required.
+# The tool uses the standard library plus external FFmpeg/FFprobe binaries.
